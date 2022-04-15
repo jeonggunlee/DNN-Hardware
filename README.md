@@ -1,7 +1,13 @@
 # DNN-Hardware
 Materials for Deep Learning Hardware Design
 * Papers
-   * To Be ADDED
+   * [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://ieeexplore.ieee.org/document/8114708)
+
+
+* Tutorials
+   * [Tutorial on Hardware Accelerators for Deep Neural Networks](https://eyeriss.mit.edu/tutorial.html)
+   * [MAESTRO: A Data-Centric Approach for Hardware and Mapping Explorations for Deep Learning Accelerators](https://maestro.ece.gatech.edu/docs/build/html/tutorials/micro2020.html)
+
 
 * Youtube Materials (Lecture, Tutorials)
    * [Efficient Processing of Deep Neural Network: from Algorithms to Hardware Architectures](https://slideslive.com/38922815/efficient-processing-of-deep-neural-network-from-algorithms-to-hardware-architectures)
