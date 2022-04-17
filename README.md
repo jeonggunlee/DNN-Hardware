@@ -11,7 +11,9 @@ Materials for Deep Learning Hardware Design
 
 * Youtube Materials (Lecture, Tutorials)
    * [Efficient Processing of Deep Neural Network: from Algorithms to Hardware Architectures](https://slideslive.com/38922815/efficient-processing-of-deep-neural-network-from-algorithms-to-hardware-architectures)
-   * [Hardware for Deep Learning](https://www.youtube.com/playlist?list=PLZU5hLL_713wXlIeer4vZmvzfE_FoCkIP)
+   * [Hardware for Deep Learning by Dr. Adam (Adi) Temanm, Bar-Ilan University](https://www.youtube.com/playlist?list=PLZU5hLL_713wXlIeer4vZmvzfE_FoCkIP)
+      * [HW for DL: Part 4a - Reducing Complexity - Lightweight Models](https://www.youtube.com/watch?v=RjVuL4VeuKU&list=PLZU5hLL_713wXlIeer4vZmvzfE_FoCkIP&index=6)
+      * [HW for DL: Part 4b - Reduced Precision and Pruning](https://www.youtube.com/watch?v=Z0PIs-On5NQ&list=PLZU5hLL_713wXlIeer4vZmvzfE_FoCkIP&index=7)
 
 * Github DNN Accelerator Design Projects
    * To Be ADDED
