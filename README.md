@@ -14,6 +14,7 @@ Materials for Deep Learning Hardware Design
    * [Hardware for Deep Learning by Dr. Adam (Adi) Temanm, Bar-Ilan University](https://www.youtube.com/playlist?list=PLZU5hLL_713wXlIeer4vZmvzfE_FoCkIP)
       * [HW for DL: Part 4a - Reducing Complexity - Lightweight Models](https://www.youtube.com/watch?v=RjVuL4VeuKU&list=PLZU5hLL_713wXlIeer4vZmvzfE_FoCkIP&index=6)
       * [HW for DL: Part 4b - Reduced Precision and Pruning](https://www.youtube.com/watch?v=Z0PIs-On5NQ&list=PLZU5hLL_713wXlIeer4vZmvzfE_FoCkIP&index=7)
+   * [[Tutorial - MICRO 2020] DNN Dataflow, Parts of MAESTRO Tutorials](https://www.youtube.com/watch?v=SpDY7nN33Ys): Good for understanding dataflows.
 
 * Github DNN Accelerator Design Projects
    * To Be ADDED
