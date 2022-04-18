@@ -7,6 +7,12 @@ Materials for Deep Learning Hardware Design
 * Tutorials
    * [Tutorial on Hardware Accelerators for Deep Neural Networks](https://eyeriss.mit.edu/tutorial.html)
    * [MAESTRO: A Data-Centric Approach for Hardware and Mapping Explorations for Deep Learning Accelerators](https://maestro.ece.gatech.edu/docs/build/html/tutorials/micro2020.html)
+   * AI Accelerator@https://medium.com/
+      * [AI Accelerators — Part I: Intro](https://medium.com/@adi.fu7/ai-accelerators-part-i-intro-822c2cdb4ca4)
+      * [Part II: Transistors and Pizza (or: Why Do We Need Accelerators)?](https://medium.com/@adi.fu7/ai-accelerators-part-ii-transistors-and-pizza-or-why-do-we-need-accelerators-75738642fdaa)
+      * [Part III: Architectural Foundations](https://medium.com/@adi.fu7/ai-accelerators-part-iii-architectural-foundations-3f1f73d61f1f)
+      * [Part IV: The Very Rich Landscape](https://medium.com/@adi.fu7/ai-accelerators-part-iv-the-very-rich-landscape-17481be80917)
+      * [Part V: Final Thoughts](https://medium.com/@adi.fu7/ai-accelerators-part-v-final-thoughts-94eae9dbfafb)
 
 
 * Youtube Materials (Lecture, Tutorials)
