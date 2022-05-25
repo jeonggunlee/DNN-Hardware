@@ -15,6 +15,8 @@ Materials for Deep Learning Hardware Design
       * [HW for DL: Part 4a - Reducing Complexity - Lightweight Models](https://www.youtube.com/watch?v=RjVuL4VeuKU&list=PLZU5hLL_713wXlIeer4vZmvzfE_FoCkIP&index=6)
       * [HW for DL: Part 4b - Reduced Precision and Pruning](https://www.youtube.com/watch?v=Z0PIs-On5NQ&list=PLZU5hLL_713wXlIeer4vZmvzfE_FoCkIP&index=7)
    * [[Tutorial - MICRO 2020] DNN Dataflow, Parts of MAESTRO Tutorials](https://www.youtube.com/watch?v=SpDY7nN33Ys): Good for understanding dataflows.
+   * [IIITD FDP AI on SoC Session 12 Deep Learning on Zynq SoC via SdSoC: Part I](https://www.youtube.com/watch?v=9T52P3pVVLw&list=PL579fbjB-a0ucYzxr_KGBx6l9GmSEiTqw&index=12)
+   * [IIITD FDP AI on SoC Session 13 Deep Learning on Zynq SoC via SdSoC: Part II](https://www.youtube.com/watch?v=k76N1aA-m38&list=PL579fbjB-a0ucYzxr_KGBx6l9GmSEiTqw&index=13)
 
 * Github DNN Accelerator Design Projects
    * To Be ADDED
