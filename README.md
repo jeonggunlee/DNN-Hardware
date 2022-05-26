@@ -18,6 +18,13 @@ Materials for Deep Learning Hardware Design
    * IIITD FDP AI on SoC Session 12 Deep Learning on Zynq SoC via SdSoC
       * [IIITD FDP AI on SoC Session 12 Deep Learning on Zynq SoC via SdSoC: Part I](https://www.youtube.com/watch?v=9T52P3pVVLw&list=PL579fbjB-a0ucYzxr_KGBx6l9GmSEiTqw&index=12)
       * [IIITD FDP AI on SoC Session 13 Deep Learning on Zynq SoC via SdSoC: Part II](https://www.youtube.com/watch?v=k76N1aA-m38&list=PL579fbjB-a0ucYzxr_KGBx6l9GmSEiTqw&index=13)
+   * EE5332: Mapping DSP Algorithms to Architectures by [Nitin Chandrachoodan](https://chandrachoodan.gitlab.io/)
+      * [EE5332 L2.8 Vivado HLS notation](https://www.youtube.com/watch?v=GOkxW_8iQpM&list=PLco7dux9L7g0zQLje50iSMBn7Xq9HxUdB&index=12)
+      * [EE5332 L7.1 - Setup for running Vivado HLS](https://www.youtube.com/watch?v=gRQ85XFVBto&list=PLco7dux9L7g0zQLje50iSMBn7Xq9HxUdB&index=53)
+      * [EE5332 L7.2 - Vivado HLS: Adder](https://www.youtube.com/watch?v=qSkfesn2be0&list=PLco7dux9L7g0zQLje50iSMBn7Xq9HxUdB&index=54)
+      * [EE5332 L7.3 - Vivado HLS Multiplier](https://www.youtube.com/watch?v=fGKX-j6qTbg&list=PLco7dux9L7g0zQLje50iSMBn7Xq9HxUdB&index=55)
+      * [EE5332 L7.4 - Vivado HLS Differential Equation](https://www.youtube.com/watch?v=Kt1mxRGT8a0&list=PLco7dux9L7g0zQLje50iSMBn7Xq9HxUdB&index=56)
+      * 
 
 * Github DNN Accelerator Design Projects
    * To Be ADDED
