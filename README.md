@@ -16,6 +16,8 @@ Materials for Deep Learning Hardware Design
       * [HW for DL: Part 4b - Reduced Precision and Pruning](https://www.youtube.com/watch?v=Z0PIs-On5NQ&list=PLZU5hLL_713wXlIeer4vZmvzfE_FoCkIP&index=7)
    * [[Tutorial - MICRO 2020] DNN Dataflow, Parts of MAESTRO Tutorials](https://www.youtube.com/watch?v=SpDY7nN33Ys): Good for understanding dataflows.
    * IIITD FDP AI on SoC Session 12 Deep Learning on Zynq SoC via SdSoC
+      * [IIITD FDP AI on SoC Session 7 Neural Networks on SoC via Verilog](https://www.youtube.com/watch?v=P2RETDAIETk&list=PL579fbjB-a0ucYzxr_KGBx6l9GmSEiTqw&index=7)
+      * [IIITD FDP AI on SoC Session 8 Neural Networks on SoC via Verilog](https://www.youtube.com/watch?v=erjt9-CsnNI&list=PL579fbjB-a0ucYzxr_KGBx6l9GmSEiTqw&index=8)
       * [IIITD FDP AI on SoC Session 12 Deep Learning on Zynq SoC via SdSoC: Part I](https://www.youtube.com/watch?v=9T52P3pVVLw&list=PL579fbjB-a0ucYzxr_KGBx6l9GmSEiTqw&index=12)
       * [IIITD FDP AI on SoC Session 13 Deep Learning on Zynq SoC via SdSoC: Part II](https://www.youtube.com/watch?v=k76N1aA-m38&list=PL579fbjB-a0ucYzxr_KGBx6l9GmSEiTqw&index=13)
    * [IIIT Delhi ECE573: Advanced Embedded Logic Design Labs Winter 2022](https://www.youtube.com/playlist?list=PL579fbjB-a0uQu2tQ5uBj7kKAPMNRE8ta)
