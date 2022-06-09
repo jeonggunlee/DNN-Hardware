@@ -18,6 +18,11 @@ Materials for Deep Learning Hardware Design
    * IIITD FDP AI on SoC Session 12 Deep Learning on Zynq SoC via SdSoC
       * [IIITD FDP AI on SoC Session 12 Deep Learning on Zynq SoC via SdSoC: Part I](https://www.youtube.com/watch?v=9T52P3pVVLw&list=PL579fbjB-a0ucYzxr_KGBx6l9GmSEiTqw&index=12)
       * [IIITD FDP AI on SoC Session 13 Deep Learning on Zynq SoC via SdSoC: Part II](https://www.youtube.com/watch?v=k76N1aA-m38&list=PL579fbjB-a0ucYzxr_KGBx6l9GmSEiTqw&index=13)
+   * [IIIT Delhi ECE573: Advanced Embedded Logic Design Labs Winter 2022](https://www.youtube.com/playlist?list=PL579fbjB-a0uQu2tQ5uBj7kKAPMNRE8ta)
+      * [IIITD AELD Lab8_P1: HLS IP with AXI Stream Interface for Matrix Multiplication](https://www.youtube.com/watch?v=i4I4UPwUE0Y&list=PL579fbjB-a0uQu2tQ5uBj7kKAPMNRE8ta&index=33)
+      * [IIITD AELD Lab8_P2: HLS IP with AXI Stream Interface for Matrix Multiplication](https://www.youtube.com/watch?v=iYUt60gAOwg&list=PL579fbjB-a0uQu2tQ5uBj7kKAPMNRE8ta&index=34)
+      * [IIITD AELD Lab8_P3: HLS IP with AXI Stream Interface for Matrix Multiplication](https://www.youtube.com/watch?v=BFzIXJqEPy4&list=PL579fbjB-a0uQu2tQ5uBj7kKAPMNRE8ta&index=35)
+      * [IIITD AELD Lab9: Word Length Optimization for for Matrix Multiplication](https://www.youtube.com/watch?v=4_xs-rDllGc&list=PL579fbjB-a0uQu2tQ5uBj7kKAPMNRE8ta&index=36)
    * EE5332: Mapping DSP Algorithms to Architectures by [Nitin Chandrachoodan](https://chandrachoodan.gitlab.io/)
       * [EE5332 L2.8 Vivado HLS notation](https://www.youtube.com/watch?v=GOkxW_8iQpM&list=PLco7dux9L7g0zQLje50iSMBn7Xq9HxUdB&index=12)
       * [EE5332 L7.1 - Setup for running Vivado HLS](https://www.youtube.com/watch?v=gRQ85XFVBto&list=PLco7dux9L7g0zQLje50iSMBn7Xq9HxUdB&index=53)
